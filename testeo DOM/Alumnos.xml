@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<alumnos>
-	<alumno><nombre>jose carlos</nombre> <apellido>giner</apellido></alumno>
-	<alumno><nombre>Manue</nombre> <apellido>domench</apellido>l</alumno>
-	<alumno><nombre>David</nombre> <apellido>alce</apellido></alumno>
-	<alumno><nombre>Xabi</nombre> <apellido>corbacho</apellido></alumno>
-	<alumno><nombre>Sergio</nombre> <apellido>gomez</apellido></alumno>
-	<alumno><nombre>Younes</nombre> <apellido>goules</apellido></alumno>
-</alumnos>
