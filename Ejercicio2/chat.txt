@@ -1,0 +1,7 @@
+Hola
+Hola
+Me gustaria saber como hacer un console log en un prompt que guardase el texto en este archivo para luego ir mostrando
+Quiza se pueda hacer pero yo no lo se
+bueno intentare a ver que saco 
+vale, hasta luego
+adios

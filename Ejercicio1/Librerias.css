@@ -1,0 +1,35 @@
+
+body
+{
+    margin: 0px;
+    text-align: center;
+    align-items: center;
+
+}
+
+div{
+    
+    min-height:auto;
+    max-width: 100vw;
+}
+.tabla
+{
+  display: table;
+  width: 80vw;
+  align-self: center;
+  border-collapse: collapse;
+}
+
+
+.fila
+{
+  border: 1px solid black;
+  display: table-row;
+}
+
+.celda
+{
+  border: 1px solid black;
+  vertical-align: middle;
+  display: table-cell;
+}
